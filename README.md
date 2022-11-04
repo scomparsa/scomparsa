@@ -1,8 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Qian
 
-:computer: Self-thought Front-end Product Engineer.
+:computer: Web fullstack engineer.
 
-🖖 React aficionado | 🔐 Web3 Learner | ☕️ Coffee lover
+🖖 React/Vue/Node aficionado | 🔐 Web3 learner | ☕️ Coffee lover
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
 
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
