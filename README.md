@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Qian
 
-:computer: Web fullstack engineer.
+:computer: Full-Stack web development engineer.
 
 🖖 React/Vue/Node aficionado | 🔐 Web3 learner | ☕️ Coffee lover
 
