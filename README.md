@@ -32,4 +32,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![qian's github stats](https://github-readme-stats.vercel.app/api?username=scomparsa&show_icons=true&theme=dracula)
+![qian's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=scomparsa&show_icons=true&theme=dracula)
